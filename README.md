@@ -4,7 +4,7 @@
 # 👉About Me:
 - 🔭 I’m currently understanding about **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **GraphQL, Prisma**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishek0841.netlify.app/](https://abhishek0841.netlify.app/)
 
-- 💬 Ask me about **HTML-5, CSS-3, JavaScript, React.js, Redux, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, Material UI, PostgreSQL, Docker, Socket.IO, My-Sql, Git, GitHub**
+- 💬 Ask me about **HTML-5, CSS-3, JavaScript, React.js, Redux, Next.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Material UI, PostgreSQL, Docker, Socket.IO, My-Sql, Git, GitHub**
 
 - 📫 How to reach me **abhishekkumar0841@gmail.com**
 
